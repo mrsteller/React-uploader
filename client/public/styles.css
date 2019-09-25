@@ -1,0 +1,32 @@
+header {
+  text-align: center;
+}
+header h1 {
+  padding:10px;
+}
+button {
+  margin:2px;
+}
+.uploader {
+  padding:5em;
+  text-align: center;
+
+}
+.uploader form {
+  margin: 3em 0;
+}
+.files {
+  margin:3em 0;
+}
+.filename {
+  text-align: left;
+}
+.filesize {
+    text-align: right;
+    margin-top: -2.5em
+}
+footer {
+  background-color: #e9ecef;
+  padding:5em;
+  bottom:0;
+}
